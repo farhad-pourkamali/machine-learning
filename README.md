@@ -17,5 +17,4 @@ This course is an *introduction* to machine learning concepts, techniques, and a
     - Convolutional neural networks (CNNs) for deep computer vision and recurrent neural nets (RNNs)
 
 ## Slides 
-Lecture 1: Introduction to Machine Learning, Basics of Python, Review of Linear Algebra and NumPy [PDF](https://github.com/farhad-pourkamali/machine-learning/blob/main/01_lecture1.pdf)
-
+- Lecture 1: Introduction to Machine Learning, Basics of Python, Review of Linear Algebra and NumPy [PDF](https://github.com/farhad-pourkamali/machine-learning/blob/main/01_lecture1.pdf)
