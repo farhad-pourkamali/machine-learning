@@ -16,3 +16,6 @@ This course is an *introduction* to machine learning concepts, techniques, and a
     - Understanding different forms of gradient descent (e.g., Nesterov, RMSProp, and Adam)
     - Convolutional neural networks (CNNs) for deep computer vision and recurrent neural nets (RNNs)
 
+## Slides 
+Lecture 1: Introduction to Machine Learning, Basics of Python, Review of Linear Algebra, and NumPy 
+
