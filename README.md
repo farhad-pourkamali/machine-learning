@@ -8,6 +8,7 @@ This course is an *introduction* to machine learning concepts, techniques, and a
     - Review of Python’s main scientific libraries: NumPy, Pandas, and Matplotlib
     - Steps in a typical machine learning project
     - Learning by fitting a model to data and optimizing a cost function 
+    - Linear regression, regularization, logistic regression, support vector machines, decision trees/random forests, ensemble learning, K-means clustering, DBSCAN
     - Challenges of using machine learning systems
 
 - Part 2: Neural Networks and Deep Learning
