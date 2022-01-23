@@ -19,3 +19,5 @@ This course is an *introduction* to machine learning concepts, techniques, and a
 
 ## Slides 
 - Lecture 1: Introduction to Machine Learning, Basics of Python, Review of Linear Algebra and NumPy [PDF](https://github.com/farhad-pourkamali/machine-learning/blob/main/01_lecture1.pdf)
+
+- Lecture 2: Review of Linear Algebra and Python Libraries [PDF](https://github.com/farhad-pourkamali/machine-learning/blob/main/02_lecture2.pdf)
