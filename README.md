@@ -22,4 +22,4 @@ This course is an *introduction* to machine learning concepts, techniques, and a
 
 - Lecture 2: Review of Linear Algebra and Python Libraries [PDF](https://github.com/farhad-pourkamali/machine-learning/blob/main/02_lecture2.pdf)
 
-- Lecture 3: Linear Regression [PDF](https://github.com/farhad-pourkamali/machine-learning/blob/main/03_lecture3.pdf)
+- Lecture 3: Linear Regression (Gradient, Polynomial Regression, and Regularization) [PDF](https://github.com/farhad-pourkamali/machine-learning/blob/main/03_lecture3.pdf)
