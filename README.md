@@ -25,3 +25,5 @@ This course is an *introduction* to machine learning concepts, techniques, and a
 - Lecture 3: Linear Regression (Gradient, Polynomial Regression, and Regularization) [PDF](https://github.com/farhad-pourkamali/machine-learning/blob/main/03_lecture3.pdf)
 
 - Lecture 4: Logistic Regression and Classification [PDF](https://github.com/farhad-pourkamali/machine-learning/blob/main/04_lecture4.pdf)
+
+- Lecture 5: SVMs, Decision Trees, and Random Forests [PDF](https://github.com/farhad-pourkamali/machine-learning/blob/main/05_lecture5.pdf)
