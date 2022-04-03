@@ -29,3 +29,6 @@ This course is an *introduction* to machine learning concepts, techniques, and a
 - Lecture 5: SVMs, Decision Trees, and Random Forests [PDF](https://github.com/farhad-pourkamali/machine-learning/blob/main/05_lecture5.pdf)
 
 - Lecture 6: Unsupervised Learning and Clustering [PDF](https://github.com/farhad-pourkamali/machine-learning/blob/main/06_lecture6.pdf)
+
+- Lecture 7: Neural Networks and Keras [PDF](https://github.com/farhad-pourkamali/machine-learning/blob/main/07_lecture7.pdf)
+
