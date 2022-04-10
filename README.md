@@ -32,3 +32,7 @@ This course is an *introduction* to machine learning concepts, techniques, and a
 
 - Lecture 7: Neural Networks and Keras [PDF](https://github.com/farhad-pourkamali/machine-learning/blob/main/07_lecture7.pdf)
 
+- Lecture 8: Training Deep Neural Networks (Regularization and Optimization) [PDF](https://github.com/farhad-pourkamali/machine-learning/blob/main/08_lecture8.pdf)
+
+
+
