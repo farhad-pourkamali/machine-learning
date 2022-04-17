@@ -34,5 +34,7 @@ This course is an *introduction* to machine learning concepts, techniques, and a
 
 - Lecture 8: Training Deep Neural Networks (Regularization and Optimization) [PDF](https://github.com/farhad-pourkamali/machine-learning/blob/main/08_lecture8.pdf)
 
+- Lecture 9: Introduction to Convolutional Neural Networks [PDF](https://github.com/farhad-pourkamali/machine-learning/blob/main/08_lecture9.pdf)
+
 
 
